@@ -141,8 +141,8 @@ main {
   align-items: center;
   display: flex;
   gap: 8px;
-  justify-content: flex-start;
-  margin: 34px 6px 28px;
+  justify-content: center;
+  margin: 0;
 }
 
 .post-wrapper {
@@ -261,12 +261,17 @@ main {
 }
 
 .news-item {
-  border-bottom: 1px solid #e6e6e6;
   display: grid;
   gap: 24px;
   grid-template-columns: 160px 1fr;
-  padding: 0 0 13px;
+  padding: 0;
   margin-bottom: 13px;
+}
+
+.section-divider {
+  border: 0;
+  border-top: 1px solid #e6e6e6;
+  margin: 28px 0 24px;
 }
 
 .news-date {

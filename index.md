@@ -15,10 +15,14 @@ I am currently a second-year master's student in Computer Science and Technology
   </div>
 </div>
 
+<hr class="section-divider">
+
 ## Research Interests
 
 - LLM / Agent Safety
 - Interpretability
+
+<hr class="section-divider">
 
 ## Publications
 
@@ -31,6 +35,8 @@ International Conference on Machine Learning (ICML), 2026<br>
 Qingzhuo Wang\*, <strong>Ruiyang Qin</strong>\*, Zhenxin Qin, Wen Shen, Zhihua Wei<br>
 International Conference on Machine Learning (ICML), 2026<br>
 [[Poster](https://icml.cc/virtual/2026/poster/65719)]
+
+<hr class="section-divider">
 
 ## Preprints
 
