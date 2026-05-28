@@ -239,7 +239,7 @@ main {
   margin: 24px 6px;
   @media screen and (max-width: $smallMobileW) {
     margin-left: 12px;
-    margin-right: 12px;
+    margin-right: 24px;
   }
   @media screen and (max-width: $mobileW) {
     padding: 0 !important;
@@ -276,6 +276,7 @@ main {
   }
 }
 
+.post h2,
 .news-heading {
   color: #555;
   font-family: Raleway, sans-serif;
@@ -283,6 +284,9 @@ main {
   font-weight: 400;
   line-height: 1;
   margin: 18px 0 16px;
+}
+
+.news-heading {
   text-transform: lowercase;
 }
 
