@@ -45,7 +45,7 @@ h2 {
   }
 }
 main {
-  margin: 0 56px;
+  margin: 0 32px;
   display: flex;
   height: 100%;
 
@@ -54,10 +54,10 @@ main {
     max-width: 1440px;
   }
   @media screen and (max-width: 1280px) {
-    margin: 0 48px;
+    margin: 0 28px;
   }
   @media screen and (max-width: 1024px) {
-    margin: 0 24px;
+    margin: 0 16px;
   }
 
   @media screen and (max-width: $mobileW) {
@@ -236,10 +236,10 @@ main {
 .posts,
 .post-container {
   list-style-type: none;
-  margin: 28px 16px;
+  margin: 24px 6px;
   @media screen and (max-width: $smallMobileW) {
-    margin-left: 16px;
-    margin-right: 16px;
+    margin-left: 12px;
+    margin-right: 12px;
   }
   @media screen and (max-width: $mobileW) {
     padding: 0 !important;
@@ -247,7 +247,7 @@ main {
   }
 }
 .post-container {
-  padding-left: 16px;
+  padding-left: 6px;
 }
 .post {
   font-family: "Merriweather", sans-serif;
