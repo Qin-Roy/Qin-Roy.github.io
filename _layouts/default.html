@@ -27,15 +27,6 @@
             <a href="mailto:{{ site.plainwhite.social_links.email }}">Email</a>
         {%- endif -%}
           </nav>
-      {%- if site.plainwhite.dark_mode -%}
-          <div class="theme-toggle">
-            <span>Dark Mode</span>
-          <label class="switch">
-            <input type="checkbox" class="dark-mode-toggle">
-            <span class="slider round" onclick="toggleDarkMode()"></span>
-          </label>
-          </div>
-      {%- endif -%}
         </div>
         <a class="profile-image" href="{{ "/" | relative_url}}">
         {% if site.plainwhite.portfolio_image_dark and site.plainwhite.dark_mode %}
@@ -47,6 +38,15 @@
         </a>
       </header>
       {{ content }}
+      {%- if site.plainwhite.dark_mode -%}
+      <div class="theme-toggle">
+        <span>Dark Mode</span>
+        <label class="switch">
+          <input type="checkbox" class="dark-mode-toggle">
+          <span class="slider round" onclick="toggleDarkMode()"></span>
+        </label>
+      </div>
+      {%- endif -%}
     </section>
   </main>
   {% if site.plainwhite.dark_mode %}
