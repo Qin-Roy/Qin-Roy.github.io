@@ -5,6 +5,37 @@
 <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
 <title>{{ page.title | default: site.title }}</title>
 {% seo %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ruiyang Qin",
+  "alternateName": "秦睿洋",
+  "url": "{{ "/" | absolute_url }}",
+  "email": "mailto:{{ site.email }}",
+  "affiliation": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "Tongji University",
+      "url": "https://www.tongji.edu.cn/"
+    },
+    {
+      "@type": "Organization",
+      "name": "Shanghai Artificial Intelligence Laboratory",
+      "url": "https://www.shlab.org.cn/"
+    }
+  ],
+  "sameAs": [
+    "https://scholar.google.com/citations?user=rf0QVMoAAAAJ&hl=zh-CN",
+    "https://www.linkedin.com/in/ruiyang-qin-a12a05317/"
+  ],
+  "knowsAbout": [
+    "LLM Safety",
+    "Agent Safety",
+    "Interpretability"
+  ]
+}
+</script>
 {% if site.plainwhite.dark_mode %}
 <script type="text/javascript" src="{{ "/assets/js/darkmode.js" | relative_url }}"></script>
 {% endif %}
