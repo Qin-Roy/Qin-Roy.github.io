@@ -17,6 +17,14 @@
 	.post p {
 		color: #ddd;
 	}
+	.news-heading,
+	.news-date,
+	.news-text {
+		color: $dark_text_color;
+	}
+	.news-item {
+		border-color: #333;
+	}
 
 	.social [class^="icon-"] {
 		color: $dark_text_color

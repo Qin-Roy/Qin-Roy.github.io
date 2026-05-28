@@ -45,7 +45,7 @@ h2 {
   }
 }
 main {
-  margin: 0 90px;
+  margin: 0 56px;
   display: flex;
   height: 100%;
 
@@ -54,10 +54,10 @@ main {
     max-width: 1440px;
   }
   @media screen and (max-width: 1280px) {
-    margin: 0 75px;
+    margin: 0 48px;
   }
   @media screen and (max-width: 1024px) {
-    margin: 0 35px;
+    margin: 0 24px;
   }
 
   @media screen and (max-width: $mobileW) {
@@ -236,10 +236,10 @@ main {
 .posts,
 .post-container {
   list-style-type: none;
-  margin: 45px 30px;
+  margin: 28px 16px;
   @media screen and (max-width: $smallMobileW) {
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 16px;
+    margin-right: 16px;
   }
   @media screen and (max-width: $mobileW) {
     padding: 0 !important;
@@ -247,15 +247,16 @@ main {
   }
 }
 .post-container {
-  padding-left: 30px;
+  padding-left: 16px;
 }
 .post {
   font-family: "Merriweather", sans-serif;
   font-weight: 300;
   color: #222;
-  line-height: 1.9em;
+  line-height: 1.65em;
   p {
-    margin-top: 10px;
+    margin-top: 8px;
+    margin-bottom: 12px;
   }
   a {
     color: $linkColor;
@@ -272,6 +273,53 @@ main {
   h5,
   h6 {
     font-family: Raleway, sans-serif;
+  }
+}
+
+.news-heading {
+  color: #555;
+  font-family: Raleway, sans-serif;
+  font-size: 34px;
+  font-weight: 400;
+  line-height: 1;
+  margin: 18px 0 16px;
+  text-transform: lowercase;
+}
+
+.news-list {
+  margin: 0 0 28px;
+}
+
+.news-item {
+  border-bottom: 1px solid #e6e6e6;
+  display: grid;
+  gap: 24px;
+  grid-template-columns: 160px 1fr;
+  padding: 0 0 13px;
+  margin-bottom: 13px;
+}
+
+.news-date {
+  color: #222;
+  font-family: Raleway, sans-serif;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.news-text {
+  color: #333;
+  line-height: 1.5em;
+}
+
+@media screen and (max-width: $mobileW) {
+  .news-heading {
+    font-size: 30px;
+    margin-top: 8px;
+  }
+
+  .news-item {
+    gap: 4px;
+    grid-template-columns: 1fr;
   }
 }
 .posts-labelgroup {

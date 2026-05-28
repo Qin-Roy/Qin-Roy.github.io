@@ -17,7 +17,8 @@ plainwhite:
   sitemap: true
   search: false
   dark_mode: true
-  portfolio_image: "assets/portfolio.png"
+  portfolio_image: "assets/white.png"
+  portfolio_image_dark: "assets/black.png"
   html_lang: "en"
   condensed_mobile:
     - page
