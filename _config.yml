@@ -24,16 +24,9 @@ plainwhite:
     - post
 
   social_links:
+    google_scholar: https://scholar.google.com/citations?user=rf0QVMoAAAAJ&hl=zh-CN
     linkedIn: in/ruiyang-qin-a12a05317
     email: wyattqin@gmail.com
-
-  navigation:
-    - title: Google Scholar
-      url: https://scholar.google.com/citations?user=rf0QVMoAAAAJ&hl=zh-CN
-    - title: LinkedIn
-      url: https://www.linkedin.com/in/ruiyang-qin-a12a05317/
-    - title: Email
-      url: mailto:wyattqin@gmail.com
 
 plugins:
   - jekyll-seo-tag

@@ -18,10 +18,10 @@
       <div class="about-title">
       <a href="{{ "/" | relative_url}}">
         {% if site.plainwhite.portfolio_image_dark and site.plainwhite.dark_mode %}
-        <img class="light" src="{{site.baseurl }}/{{ site.plainwhite.portfolio_image }}" alt="{{ site.plainwhite.name }}" />
-        <img class="dark" src="{{site.baseurl }}/{{ site.plainwhite.portfolio_image_dark }}" alt="{{ site.plainwhite.name }}" />
+        <img class="light" src="{{ site.baseurl }}/{{ site.plainwhite.portfolio_image }}?v={{ site.time | date: '%s' }}" alt="{{ site.plainwhite.name }}" />
+        <img class="dark" src="{{ site.baseurl }}/{{ site.plainwhite.portfolio_image_dark }}?v={{ site.time | date: '%s' }}" alt="{{ site.plainwhite.name }}" />
         {% else %}
-        <img src="{{site.baseurl }}/{{ site.plainwhite.portfolio_image }}" alt="{{ site.plainwhite.name }}" />
+        <img src="{{ site.baseurl }}/{{ site.plainwhite.portfolio_image }}?v={{ site.time | date: '%s' }}" alt="{{ site.plainwhite.name }}" />
         {% endif %}
       </a>
       <h2 id="title">
@@ -35,6 +35,16 @@
       {% capture footer %}
       {%- if site.plainwhite.social_links != '' -%}
       <ul class="social about-footer {{condensed_class}}">
+        {%- if site.plainwhite.social_links.google_scholar -%}
+        <a href="{{ site.plainwhite.social_links.google_scholar }}" target="_blank" rel="noopener noreferrer" aria-label="Google Scholar" title="Google Scholar">
+          <li>
+            <svg class="social-icon" viewBox="0 0 24 24" role="img" aria-hidden="true">
+              <path d="M12 3 1.5 11.25 12 19.5l10.5-8.25L12 3Zm0 2.55 6.42 5.04L12 15.63l-6.42-5.04L12 5.55Z"></path>
+              <path d="M5.25 13.35v3.15c0 2.48 3.02 4.5 6.75 4.5s6.75-2.02 6.75-4.5v-3.15l-2.25 1.77v1.38c0 1.02-1.92 2.25-4.5 2.25s-4.5-1.23-4.5-2.25v-1.38l-2.25-1.77Z"></path>
+            </svg>
+          </li>
+        </a>
+        {%- endif -%}
         {%- if site.plainwhite.social_links.github -%}
         <a href="https://github.com/{{ site.plainwhite.social_links.github }}" target="_blank">
           <li>
