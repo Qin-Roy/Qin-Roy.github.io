@@ -6,17 +6,18 @@
 	color: $dark_text_color;
 	border-color: #e6e6e6;
 
-	.about{
+	.profile-image {
 		img.light {
 			display: none;
 		}
 		img.dark {
-			display: inline;
+			display: block;
 		}
 	}
 	.post p {
 		color: #ddd;
 	}
+	.post h2,
 	.news-heading,
 	.news-date,
 	.news-text {
@@ -24,10 +25,6 @@
 	}
 	.news-item {
 		border-color: #333;
-	}
-
-	.social [class^="icon-"] {
-		color: $dark_text_color
 	}
 
 	#posts-label {
