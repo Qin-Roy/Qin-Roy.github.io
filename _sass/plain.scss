@@ -97,6 +97,7 @@ main {
 .profile-image {
   flex: 0 0 auto;
   grid-column: 3;
+  margin-left: 18px;
 
   img {
     display: block;
@@ -140,8 +141,8 @@ main {
   align-items: center;
   display: flex;
   gap: 8px;
-  justify-content: center;
-  margin: 34px 0 28px;
+  justify-content: flex-start;
+  margin: 34px 6px 28px;
 }
 
 .post-wrapper {

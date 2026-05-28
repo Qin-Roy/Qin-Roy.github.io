@@ -32,6 +32,8 @@ Qingzhuo Wang\*, <strong>Ruiyang Qin</strong>\*, Zhenxin Qin, Wen Shen, Zhihua W
 International Conference on Machine Learning (ICML), 2026<br>
 [[Poster](https://icml.cc/virtual/2026/poster/65719)]
 
+## Preprints
+
 **Multilingual Safety Alignment via Self-Distillation**<br>
 <strong>Ruiyang Qin</strong>\*, Qingzhuo Wang\*, Dongrui Liu, Qiang Li, Zhihua Wei, Wen Shen<br>
 arXiv, 2026<br>
