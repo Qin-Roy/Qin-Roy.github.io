@@ -80,13 +80,15 @@ main {
 }
 
 .profile-header {
-  align-items: flex-start;
-  display: flex;
+  align-items: center;
+  display: grid;
   gap: 28px;
+  grid-template-columns: 1fr minmax(260px, 1fr) 150px;
   margin: 34px 6px 26px;
 
   @media screen and (max-width: $mobileW) {
-    flex-direction: column;
+    display: flex;
+    flex-direction: column-reverse;
     gap: 16px;
     margin-top: 22px;
   }
@@ -106,7 +108,8 @@ main {
 }
 
 .profile-copy {
-  flex: 1 1 auto;
+  grid-column: 2;
+  text-align: center;
 
   h1 {
     font-size: 34px;
@@ -127,6 +130,7 @@ main {
   display: flex;
   flex-wrap: wrap;
   gap: 8px 18px;
+  justify-content: center;
   font-family: "Merriweather", sans-serif;
   margin-bottom: 14px;
 }
@@ -135,6 +139,7 @@ main {
   align-items: center;
   display: flex;
   gap: 8px;
+  justify-content: center;
 }
 
 .post-wrapper {

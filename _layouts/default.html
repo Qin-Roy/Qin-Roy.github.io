@@ -9,14 +9,6 @@
   <main class="container">
     <section class="content">
       <header class="profile-header">
-        <a class="profile-image" href="{{ "/" | relative_url}}">
-        {% if site.plainwhite.portfolio_image_dark and site.plainwhite.dark_mode %}
-        <img class="light" src="{{ site.baseurl }}/{{ site.plainwhite.portfolio_image }}?v={{ site.time | date: '%s' }}" alt="{{ site.plainwhite.name }}" />
-        <img class="dark" src="{{ site.baseurl }}/{{ site.plainwhite.portfolio_image_dark }}?v={{ site.time | date: '%s' }}" alt="{{ site.plainwhite.name }}" />
-        {% else %}
-        <img src="{{ site.baseurl }}/{{ site.plainwhite.portfolio_image }}?v={{ site.time | date: '%s' }}" alt="{{ site.plainwhite.name }}" />
-        {% endif %}
-        </a>
         <div class="profile-copy">
           <h1 id="title">
             <a href="{{ "/" | relative_url }}">{{ site.plainwhite.name }}</a>
@@ -45,6 +37,14 @@
           </div>
       {%- endif -%}
         </div>
+        <a class="profile-image" href="{{ "/" | relative_url}}">
+        {% if site.plainwhite.portfolio_image_dark and site.plainwhite.dark_mode %}
+        <img class="light" src="{{ site.baseurl }}/{{ site.plainwhite.portfolio_image }}?v={{ site.time | date: '%s' }}" alt="{{ site.plainwhite.name }}" />
+        <img class="dark" src="{{ site.baseurl }}/{{ site.plainwhite.portfolio_image_dark }}?v={{ site.time | date: '%s' }}" alt="{{ site.plainwhite.name }}" />
+        {% else %}
+        <img src="{{ site.baseurl }}/{{ site.plainwhite.portfolio_image }}?v={{ site.time | date: '%s' }}" alt="{{ site.plainwhite.name }}" />
+        {% endif %}
+        </a>
       </header>
       {{ content }}
     </section>
