@@ -3,7 +3,7 @@ layout: page
 title: Ruiyang Qin (秦睿洋)
 ---
 
-I am currently a second-year master's student in Computer Science and Technology at [Tongji University](https://www.tongji.edu.cn/), supervised by Professor [Zhihua Wei](https://cs.tongji.edu.cn/info/1061/2797.htm) and Associate Professor [Wen Shen](https://ada-shen.github.io/). I am also a research intern at the [Center for Safe & Trustworthy AI](https://ai45.shlab.org.cn/) at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), supervised by [Dongrui Liu](https://shenqildr.github.io/). I received my bachelor's degree in Computer Science and Technology from Tongji University in 2024.
+I am currently a second-year master's student in Computer Science and Technology at [Tongji University](https://en.tongji.edu.cn/p/#/), supervised by Professor [Zhihua Wei](https://ieeexplore.ieee.org/author/37709584000) and Associate Professor [Wen Shen](https://ada-shen.github.io/). I am also a research intern at the [Center for Safe & Trustworthy AI](https://ai45.shlab.org.cn/) at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), supervised by [Dongrui Liu](https://shenqildr.github.io/). I received my bachelor's degree in Computer Science and Technology from Tongji University in 2024.
 {: .intro}
 
 <h2 class="news-heading">News</h2>

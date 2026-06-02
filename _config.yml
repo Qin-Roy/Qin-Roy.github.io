@@ -4,9 +4,8 @@ email: wyattqin@gmail.com
 url: "https://qin-roy.github.io"
 baseurl: ""
 description: >
-  Ruiyang Qin is a master's student in Computer Science and Technology at Tongji
-  University. His research interests include LLM and agent safety, as well as
-  interpretability.
+  Ruiyang Qin is a master's student at Tongji University researching LLM safety,
+  agent safety, and interpretability.
 show_excerpts: false
 
 sass:
