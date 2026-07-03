@@ -37,9 +37,9 @@ International Conference on Machine Learning (ICML), 2026<br>
 [[Poster](https://icml.cc/virtual/2026/poster/65719)]
 
 **Mitigating Action-Relation Hallucinations in LVLMs via Relation-aware Visual Enhancement**<br>
-[Zhenxin Qin](https://aclanthology.org/people/zhenxin-qin/), [Qiang Li](https://aclanthology.org/people/qiang-li-1757/), [Qingzhuo Wang](https://aclanthology.org/people/qingzhuo-wang/), [Ruiyang Qin](https://aclanthology.org/people/ruiyang-qin-8468/), [Zhihua Wei](https://aclanthology.org/people/zhihua-wei/), [Wen Shen](https://aclanthology.org/people/wen-shen/)<br>
+Zhenxin Qin, Qiang Li, Qingzhuo Wang, <strong>Ruiyang Qin</strong>, Zhihua Wei, Wen Shen<br>
 Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026<br>
-[[Paper](https://aclanthology.org/2026.acl-long.1142/)] [[PDF](https://aclanthology.org/2026.acl-long.1142.pdf)]
+[[Paper](https://aclanthology.org/2026.acl-long.1142/)]
 
 <hr class="section-divider">
 
