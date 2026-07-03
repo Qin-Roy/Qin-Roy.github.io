@@ -3,6 +3,8 @@ layout: page
 title: Ruiyang Qin (秦睿洋)
 ---
 
+<p class="phd-notice">I'm currently looking for a PhD position in Europe. 欢迎联系我。</p>
+
 I am currently a second-year master's student in Computer Science and Technology at [Tongji University](https://en.tongji.edu.cn/p/#/), supervised by Professor [Zhihua Wei](https://ieeexplore.ieee.org/author/37709584000) and Associate Professor [Wen Shen](https://ada-shen.github.io/). I am also a research intern at the [Center for Safe & Trustworthy AI](https://ai45.shlab.org.cn/) at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), supervised by [Dongrui Liu](https://shenqildr.github.io/). I received my bachelor's degree in Computer Science and Technology from Tongji University in 2024.
 {: .intro}
 
