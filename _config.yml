@@ -1,6 +1,6 @@
 title: Ruiyang Qin | 秦睿洋
 author: Ruiyang Qin
-email: wyattqin@gmail.com
+email: wyattqin@outlook.com
 url: "https://qin-roy.github.io"
 baseurl: ""
 description: >
@@ -28,7 +28,7 @@ plainwhite:
   social_links:
     google_scholar: https://scholar.google.com/citations?user=rf0QVMoAAAAJ&hl=zh-CN
     linkedIn: in/ruiyang-qin-a12a05317
-    email: wyattqin@gmail.com
+    email: wyattqin@outlook.com
 
 plugins:
   - jekyll-seo-tag
