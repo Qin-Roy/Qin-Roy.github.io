@@ -12,6 +12,10 @@ I am currently a second-year master's student in Computer Science and Technology
 
 <div class="news-list">
   <div class="news-item">
+    <div class="news-date">Sep 25, 2026</div>
+    <div class="news-text"><em>Multilingual Safety Alignment via Self-Distillation</em> was accepted to NeurIPS 2026!</div>
+  </div>
+  <div class="news-item">
     <div class="news-date">May 01, 2026</div>
     <div class="news-text">Two papers were accepted to ICML 2026!</div>
   </div>
@@ -26,7 +30,7 @@ I am currently a second-year master's student in Computer Science and Technology
 
 <hr class="section-divider">
 
-## Publications
+## Selected Publications
 
 **Evaluating and Explaining Prompt Sensitivity of LLMs Using Interactions**<br>
 **Ruiyang Qin**, Qingzhuo Wang, Tian Wang, Zhihua Wei, Wen Shen<br>
@@ -38,16 +42,7 @@ Qingzhuo Wang\*, <strong>Ruiyang Qin</strong>\*, Zhenxin Qin, Wen Shen, Zhihua W
 International Conference on Machine Learning (ICML), 2026<br>
 [[Poster](https://icml.cc/virtual/2026/poster/65719)]
 
-**Mitigating Action-Relation Hallucinations in LVLMs via Relation-aware Visual Enhancement**<br>
-Zhenxin Qin, Qiang Li, Qingzhuo Wang, <strong>Ruiyang Qin</strong>, Zhihua Wei, Wen Shen<br>
-Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026<br>
-[[Paper](https://aclanthology.org/2026.acl-long.1142/)]
-
-<hr class="section-divider">
-
-## Preprints
-
 **Multilingual Safety Alignment via Self-Distillation**<br>
 <strong>Ruiyang Qin</strong>\*, Qingzhuo Wang\*, Dongrui Liu, Qiang Li, Zhihua Wei, Wen Shen<br>
-arXiv, 2026<br>
+Annual Conference on Neural Information Processing Systems (NeurIPS), 2026<br>
 [[arXiv](https://arxiv.org/abs/2605.02971)]
