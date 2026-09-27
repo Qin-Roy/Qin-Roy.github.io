@@ -147,14 +147,29 @@ main {
 .profile-icon {
   display: block;
   flex: 0 0 auto;
-  height: 1.05em;
-  width: 1.05em;
+  height: 18px;
+  max-height: 18px;
+  max-width: 18px;
+  width: 18px;
+}
+
+.google-scholar-icon {
+  fill: currentColor;
+}
+
+.profile-font-icon {
+  align-items: center;
+  display: inline-flex;
+  font-size: 18px;
+  height: 18px;
+  justify-content: center;
+  width: 18px;
 }
 
 .profile-font-icon:before {
   margin-left: 0;
   margin-right: 0;
-  width: 1.05em;
+  width: auto;
 }
 
 .theme-toggle {

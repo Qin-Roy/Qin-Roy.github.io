@@ -32,6 +32,11 @@ I am currently a third-year master's student in Computer Science and Technology 
 
 ## Selected Publications
 
+**Multilingual Safety Alignment via Self-Distillation**<br>
+<strong>Ruiyang Qin</strong>\*, Qingzhuo Wang\*, Dongrui Liu, Qiang Li, Zhihua Wei, Wen Shen<br>
+Annual Conference on Neural Information Processing Systems (NeurIPS), 2026<br>
+[[arXiv](https://arxiv.org/abs/2605.02971)]
+
 **Evaluating and Explaining Prompt Sensitivity of LLMs Using Interactions**<br>
 **Ruiyang Qin**, Qingzhuo Wang, Tian Wang, Zhihua Wei, Wen Shen<br>
 International Conference on Machine Learning (ICML), 2026<br>
@@ -41,8 +46,3 @@ International Conference on Machine Learning (ICML), 2026<br>
 Qingzhuo Wang\*, <strong>Ruiyang Qin</strong>\*, Zhenxin Qin, Wen Shen, Zhihua Wei<br>
 International Conference on Machine Learning (ICML), 2026<br>
 [[Poster](https://icml.cc/virtual/2026/poster/65719)]
-
-**Multilingual Safety Alignment via Self-Distillation**<br>
-<strong>Ruiyang Qin</strong>\*, Qingzhuo Wang\*, Dongrui Liu, Qiang Li, Zhihua Wei, Wen Shen<br>
-Annual Conference on Neural Information Processing Systems (NeurIPS), 2026<br>
-[[arXiv](https://arxiv.org/abs/2605.02971)]
