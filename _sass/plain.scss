@@ -135,6 +135,26 @@ main {
   justify-content: center;
   font-family: "Merriweather", sans-serif;
   margin-bottom: 14px;
+
+  a {
+    align-items: center;
+    display: inline-flex;
+    gap: 7px;
+    text-decoration: none;
+  }
+}
+
+.profile-icon {
+  display: block;
+  flex: 0 0 auto;
+  height: 1.05em;
+  width: 1.05em;
+}
+
+.profile-font-icon:before {
+  margin-left: 0;
+  margin-right: 0;
+  width: 1.05em;
 }
 
 .theme-toggle {

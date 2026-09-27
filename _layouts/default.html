@@ -18,13 +18,24 @@
           {%- endif -%}
           <nav class="profile-links" aria-label="Profile links">
         {%- if site.plainwhite.social_links.google_scholar -%}
-            <a href="{{ site.plainwhite.social_links.google_scholar }}" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+            <a href="{{ site.plainwhite.social_links.google_scholar }}" target="_blank" rel="noopener noreferrer">
+              <svg class="profile-icon google-scholar-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                <path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/>
+              </svg>
+              <span>Google Scholar</span>
+            </a>
         {%- endif -%}
         {%- if site.plainwhite.social_links.linkedIn -%}
-            <a href="https://www.linkedin.com/{{ site.plainwhite.social_links.linkedIn }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            <a href="https://www.linkedin.com/{{ site.plainwhite.social_links.linkedIn }}" target="_blank" rel="noopener noreferrer">
+              <span class="icon-linkedin-squared profile-font-icon" aria-hidden="true"></span>
+              <span>LinkedIn</span>
+            </a>
         {%- endif -%}
         {%- if site.plainwhite.social_links.email -%}
-            <a href="mailto:{{ site.plainwhite.social_links.email }}">Email</a>
+            <a href="mailto:{{ site.plainwhite.social_links.email }}">
+              <span class="icon-mail-alt profile-font-icon" aria-hidden="true"></span>
+              <span>Email</span>
+            </a>
         {%- endif -%}
           </nav>
       {%- if site.plainwhite.dark_mode -%}
