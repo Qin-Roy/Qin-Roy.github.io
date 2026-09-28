@@ -25,8 +25,9 @@ I am currently a third-year master's student in Computer Science and Technology 
 
 ## Research Interests
 
-- LLM / Agent Safety
+- AI Safety and Reliability
 - Interpretability
+- Multilinguality
 
 <hr class="section-divider">
 
