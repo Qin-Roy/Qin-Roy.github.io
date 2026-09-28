@@ -8,6 +8,15 @@ title: Ruiyang Qin (秦睿洋)
 I am currently a third-year master's student in Computer Science and Technology at [Tongji University](https://en.tongji.edu.cn/p/#/), supervised by Professor [Zhihua Wei](https://ieeexplore.ieee.org/author/37709584000) and Associate Professor [Wen Shen](https://ada-shen.github.io/). I am also a research intern at the [Center for Safe & Trustworthy AI](https://ai45.shlab.org.cn/) at the [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), supervised by [Dongrui Liu](https://shenqildr.github.io/). I received my bachelor's degree in Computer Science and Technology from Tongji University in 2024.
 {: .intro}
 
+## Research Interests
+
+- AI Safety and Reliability
+- Interpretability
+- Multilinguality
+- LLM Post-Training
+
+<hr class="section-divider">
+
 <h2 class="news-heading">News</h2>
 
 <div class="news-list">
@@ -20,15 +29,6 @@ I am currently a third-year master's student in Computer Science and Technology 
     <div class="news-text">Two papers were accepted to ICML 2026!</div>
   </div>
 </div>
-
-<hr class="section-divider">
-
-## Research Interests
-
-- AI Safety and Reliability
-- Interpretability
-- Multilinguality
-- Post-training
 
 <hr class="section-divider">
 
