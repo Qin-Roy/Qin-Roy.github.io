@@ -34,8 +34,6 @@ I am currently a third-year master's student in Computer Science and Technology 
 
 ## Publications
 
-<em>\* indicates equal contribution.</em>
-
 **Multilingual Safety Alignment via Self-Distillation**<br>
 <strong>Ruiyang Qin</strong>\*, Qingzhuo Wang\*, Dongrui Liu, Qiang Li, Zhihua Wei, Wen Shen<br>
 Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026<br>
@@ -44,12 +42,12 @@ Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 
 **Evaluating and Explaining Prompt Sensitivity of LLMs Using Interactions**<br>
 **Ruiyang Qin**, Qingzhuo Wang, Tian Wang, Zhihua Wei, Wen Shen<br>
 International Conference on Machine Learning (<strong>ICML</strong>), 2026<br>
-[[OpenReview](https://openreview.net/forum?id=GsdFM8qnav)] [[Poster](https://icml.cc/virtual/2026/poster/65089)]
+[[arXiv](https://arxiv.org/abs/2608.18539)] [[OpenReview](https://openreview.net/forum?id=GsdFM8qnav)] [[Poster](https://icml.cc/virtual/2026/poster/65089)]
 
 **A Unified Approach to Interpreting Knowledge Distillation for Large Language Models via Interactions**<br>
 Qingzhuo Wang\*, <strong>Ruiyang Qin</strong>\*, Zhenxin Qin, Wen Shen, Zhihua Wei<br>
 International Conference on Machine Learning (<strong>ICML</strong>), 2026<br>
-[[OpenReview](https://openreview.net/forum?id=AqyQkalFk6)] [[Poster](https://icml.cc/virtual/2026/poster/65719)]
+[[arXiv](https://arxiv.org/abs/2607.08776)] [[OpenReview](https://openreview.net/forum?id=AqyQkalFk6)] [[Poster](https://icml.cc/virtual/2026/poster/65719)]
 
 **When LLMs Know but Fail to Reason: Injecting Memory for Reasoning Enhancement**<br>
 Tian Wang, Shiyu Hu, <strong>Ruiyang Qin</strong>, Hanyue Zhang, Qingzhuo Wang, Shuhan Yu, Dongrui Liu, Zhihua Wei, Wen Shen<br>
@@ -59,9 +57,9 @@ Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 
 **Mitigating Action-Relation Hallucinations in LVLMs via Relation-aware Visual Enhancement**<br>
 Zhenxin Qin, Qiang Li, Qingzhuo Wang, <strong>Ruiyang Qin</strong>, Zhihua Wei, Wen Shen<br>
 Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2026<br>
-[[ACL Anthology](https://aclanthology.org/2026.acl-long.1142/)]
+[[arXiv](https://arxiv.org/abs/2605.11808)] [[ACL Anthology](https://aclanthology.org/2026.acl-long.1142/)]
 
 **Understanding and Defending VLM Jailbreaks via Jailbreak-Related Representation Shift**<br>
 Zhihua Wei, Qiang Li, Jian Ruan, Zhenxin Qin, Leilei Wen, <strong>Ruiyang Qin</strong>, Qingzhuo Wang, Dongrui Liu, Wen Shen<br>
 Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026<br>
-[[OpenReview](https://openreview.net/forum?id=ovIB52cIlw)] [[Poster](https://neurips.cc/virtual/2026/loc/sydney/poster/149596)]
+[[arXiv](https://arxiv.org/abs/2603.17372)] [[OpenReview](https://openreview.net/forum?id=ovIB52cIlw)] [[Poster](https://neurips.cc/virtual/2026/loc/sydney/poster/149596)]
