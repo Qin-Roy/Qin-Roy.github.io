@@ -32,7 +32,7 @@ I am currently a third-year master's student in Computer Science and Technology 
 
 <hr class="section-divider">
 
-## Publications
+## Selected Publications
 
 **Multilingual Safety Alignment via Self-Distillation**<br>
 <strong>Ruiyang Qin</strong>\*, Qingzhuo Wang\*, Dongrui Liu, Qiang Li, Zhihua Wei, Wen Shen<br>
