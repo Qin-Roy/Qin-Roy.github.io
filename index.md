@@ -10,10 +10,10 @@ I am currently a third-year master's student in Computer Science and Technology 
 
 ## Research Interests
 
-- AI Safety and Reliability
+- AI Safety and Alignment
+- Evaluation and Benchmarking
 - Interpretability
 - Multilinguality
-- LLM Post-Training
 
 <hr class="section-divider">
 
